@@ -1,4 +1,16 @@
+<div align="left">
+
 # StormGrill — Orchestrateur d'Intelligence Décisionnelle
+
+[![CI](https://github.com/valorisa/stormgrill/actions/workflows/ci.yml/badge.svg)](https://github.com/valorisa/stormgrill/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![markdownlint](https://img.shields.io/badge/markdownlint-passing-brightgreen.svg)](https://github.com/DavidAnson/markdownlint-cli2)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Project Status: WIP](https://img.shields.io/badge/status-WIP-yellow.svg)](https://github.com/valorisa/stormgrill)
+
+</div>
 
 [🇬🇧 English version](README.md)
 
